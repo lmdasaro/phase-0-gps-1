@@ -7,5 +7,5 @@
 -What still confuses you about Git?
   I feel like there are still a lot of things to explore with Git. One thing that I still feel a little confused about is shortening the commands by personalizing the commands. For instance: instead of typing "git checkout", I read that it was possible to type "git co". I need to do more research on this topic.
 -How was your first experience of pairing in a GPS?
-  I really enjoyed my GPS session, even though I was the solo cohort member. However, I still got the chance to drive and navigate which allowed me to feel the excitement and pressure present when working with others. I really liked the feedback and encouragement as well!
+  I really enjoyed my GPS session, even though I was the solo cohort member. However, I still got the chance to drive and navigate which allowed me to feel the excitement and pressure present when working with others. I really liked the feedback and encouragement as well! :)
 
